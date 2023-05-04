@@ -92,6 +92,3 @@ while True:
             
             
             
-print("fdf")
-if True:
-    print("Dvxs")
